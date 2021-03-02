@@ -1,6 +1,6 @@
 # DayCalculator
 
-Calculate the number of full days elapsed in between two without using the 'datetime'
+Calculate the number of full days elapsed in between two dates without using 'datetime'
 
 
 To manually create a virtualenv on MacOS and Linux:
